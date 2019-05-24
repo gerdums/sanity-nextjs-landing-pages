@@ -19,13 +19,13 @@ export default {
               sites: [
                 {
                   buildHookId: '5cdcc91c14feadd1163ea688',
-                  title: 'Sanity Studio',
+                  title: 'Content Studio',
                   name: 'sanity-nextjs-landing-pages-studio-nfegdutj',
                   apiId: '53bf13fd-4796-4e17-bf9c-235eecee902f'
                 },
                 {
                   buildHookId: '5cdcc91c346065b8d3de4561',
-                  title: 'Landing pages Website',
+                  title: 'Virtual Pitching Academy Website',
                   name: 'sanity-nextjs-landing-pages-web-un5o8caz',
                   apiId: '69e41142-a866-4e2e-9bad-77949b1ab501'
                 }
@@ -39,7 +39,7 @@ export default {
             value: 'https://github.com/gerdums/sanity-nextjs-landing-pages',
             category: 'Code'
           },
-          {title: 'Frontend', value: 'https://sanity-nextjs-landing-pages-web-un5o8caz.netlify.com', category: 'apps'}
+          {title: 'Frontend', value: 'https://virtual-pitching-site.netlify.com/', category: 'apps'}
         ]
       }
     },
