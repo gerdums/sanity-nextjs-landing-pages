@@ -39,7 +39,7 @@ export default {
             value: 'https://github.com/gerdums/sanity-nextjs-landing-pages',
             category: 'Code'
           },
-          {title: 'Frontend', value: 'https://virtual-pitching-site.netlify.com/', category: 'apps'}
+          {title: 'Frontend', value: 'https://vpa-test.netlify.com/', category: 'apps'}
         ]
       }
     },
