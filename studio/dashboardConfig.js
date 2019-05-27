@@ -26,7 +26,7 @@ export default {
                 {
                   buildHookId: '5cdcc91c346065b8d3de4561',
                   title: 'Virtual Pitching Academy Website',
-                  name: 'sanity-nextjs-landing-pages-web-un5o8caz',
+                  name: 'vpa-test',
                   apiId: '69e41142-a866-4e2e-9bad-77949b1ab501'
                 }
               ]
